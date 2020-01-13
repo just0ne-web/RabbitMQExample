@@ -1,0 +1,6 @@
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Model\bin\Debug\RabbitMq.Model.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Model\bin\Debug\RabbitMq.Model.pdb
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Model\bin\Debug\Newtonsoft.Json.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Model\bin\Debug\Newtonsoft.Json.xml
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Model\obj\Debug\RabbitMq.Model.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Model\obj\Debug\RabbitMq.Model.pdb

@@ -1,0 +1,4 @@
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Common\bin\Debug\RabbitMq.Common.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Common\bin\Debug\RabbitMq.Common.pdb
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Common\obj\Debug\RabbitMq.Common.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Common\obj\Debug\RabbitMq.Common.pdb

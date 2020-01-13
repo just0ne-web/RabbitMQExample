@@ -1,0 +1,13 @@
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\obj\Debug\RabbitMq.Helper.csprojResolveAssemblyReference.cache
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\RabbitMq.Helper.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\RabbitMq.Helper.pdb
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\RabbitMQ.Client.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\RabbitMq.Common.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\RabbitMq.Common.pdb
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\RabbitMQ.Client.xml
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\obj\Debug\RabbitMq.Helper.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\obj\Debug\RabbitMq.Helper.pdb
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\Newtonsoft.Json.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\Newtonsoft.Json.xml
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Doc\V2020\RabbitMQTest\RabbitMq.Helper\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
